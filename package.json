@@ -13,9 +13,9 @@
   "author": "John Cokos",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^6.1.0",
+    "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.14.3",
-    "jest": "^24.8.0"
+    "jest": "^24.9.0"
   },
   "dependencies": {
     "express": "^4.17.1"
